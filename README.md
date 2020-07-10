@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dareenzo/dareenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't know who you are. I don't know what you want. If you are looking for
+ransom, I can tell you I don't have money. But what I do have, are a very
+particular set of skills, skills I have acquired over a very long career. Skills
+that make me fully buzzword compliant, and ideally suited for positions
+involving web technology, Domain-Driven Design (DDD), Behavior-Driven
+Development (BDD), accessibility, performance, scalability, maintainability,
+internationalization, plus the leadership and communication skills to guide a
+team or organization to success.
 
-Here are some ideas to get you started:
+I will not look for you, I will not pursue you. If you don't contact me now, that will be the end of it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+- Email: [paulo.phagula@gmail.com](mailto:paulo.phagula@gmail.com)
+- Twitter: [@dareenzo](https://twitter.com/dareenzo)
+- LinkedIn: [paulo-phagula](https://www.linkedin.com/in/dareenzo)
