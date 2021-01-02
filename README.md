@@ -7,7 +7,7 @@ that make me fully buzzword compliant, and ideally suited for positions
 involving web technology, plus the leadership and communication skills to guide a
 team or organization to success.
 
-I will not look for you, I will not pursue you. If you don't contact me now, that will be the end of it.
+If you don't contact me now, that will be the end of it. I will not look for you, I will not pursue you. 
 
 ## 📫 How to reach me
 
