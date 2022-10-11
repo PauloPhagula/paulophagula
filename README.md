@@ -8,7 +8,7 @@ involving web technology; leadership, google-fu, and communication skills to gui
 team or organization to success.
 
 Nevertheless, I would fail to write bubble sort on a whiteboard. 
-I look code up on the internet all the time. And I don't do riddles.
+I look up code on the internet all the time. And I don't do riddles.
 
 If you don't follow me now, that will be the end of it. I will not look for you, I will not pursue you. 
 
