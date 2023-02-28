@@ -18,9 +18,4 @@ If you don't follow me now, that will be the end of it. I will not look for you,
 
 - I collect the [illest jokes in the game](https://github.com/PauloPhagula/awesome-programmer-humor)
 - On sundays I practice the [Evil](https://github.com/emacs-evil/evil) [cult of Vim](https://en.wikipedia.org/wiki/Editor_war#Humor) at the [church of Emacs](https://en.wikipedia.org/wiki/Editor_war#Humor)
-- Want more? Visit my blog at [paulophagula.com](https://paulophagula.com)
-
-## Anti-Social Media
-
-- Twitter: [@PauloPhagula](https://twitter.com/PauloPhagula)
-- LinkedIn: [paulophagula](https://www.linkedin.com/in/paulophagula/)
+- Want more? Visit [paulophagula.com](https://paulophagula.com)
